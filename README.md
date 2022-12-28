@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-angular-design-patterns).
+
 # Angular Design Patterns
 
 [![](https://img.shields.io/circleci/project/github/brightlayer-ui/angular-design-patterns/master.svg?style=flat)](https://circleci.com/gh/brightlayer-ui/angular-design-patterns/tree/master) [![codecov](https://codecov.io/gh/brightlayer-ui/angular-design-patterns/branch/master/graph/badge.svg?token=7Y4TGH31B6)](https://codecov.io/gh/brightlayer-ui/angular-design-patterns)
